@@ -9,3 +9,5 @@ oceans = ["pacific", "artic", "indian", "atlantic", "southern ocean"]
 for(var i = 0; i < oceans.length; i++){
     console.log(oceans[i])
 }
+
+places_in_britain = ["London", "Liverpool", "Edinburugh"]
